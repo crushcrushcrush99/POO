@@ -1,0 +1,7 @@
+{
+    "pessoa":{
+        "nome": "Joao",
+        "idade": 35,
+        "nacionalidade": "Brasileiro"
+    }
+}
